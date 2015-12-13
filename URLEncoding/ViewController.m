@@ -19,7 +19,7 @@
     [super viewDidLoad];
     
     //1.路径：通过GET方式获取接口
-    NSString *path = [@"http://www.webxml.com.cn/WebServices/WeatherWebService.asmx/getWeatherbyCityName?theCityName=沈阳" URLEncodedString];
+    NSString *path = [@"http://www.webxml.com.cn/WebServices/WeatherWebService.asmx/getWeatherbyCityName?theCityName=北京" URLEncodedString];
     //2.转成URL
     NSURL *url = [NSURL URLWithString:path];
     //3.建立请求
