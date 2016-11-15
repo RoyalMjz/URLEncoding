@@ -1,10 +1,11 @@
 
->#*RoyalMjz/URLEncoding*
->>
+#*URLEncoding*
 
-    [URLEncoding](https://github.com/RoyalMjz/URLEncoding)
+ 
 
-### Usage
+## Usage
+
+- `import this category`
 
 - `#import "NSString+URLEncoding.h"`
 
