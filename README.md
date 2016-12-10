@@ -5,8 +5,8 @@
 
 ## Usage
 
-- `import this category`
+1. `import this category`
 
-- `#import "NSString+URLEncoding.h"`
+2. `#import "NSString+URLEncoding.h"`
 
--  `NSString *path = [@"http://...theCityName=北京" URLEncodedString];`
+3. `NSString *path = [@"http://...theCityName=北京" URLEncodedString];`
